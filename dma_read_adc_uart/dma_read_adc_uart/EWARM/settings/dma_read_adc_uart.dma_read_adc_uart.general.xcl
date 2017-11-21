@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armstlink2.dll" 
+
+"C:\Users\PC-1\Desktop\stm32f4 discovery working\dma_read_adc_uart\dma_read_adc_uart\EWARM\dma_read_adc_uart\Exe\dma_read_adc_uart.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
