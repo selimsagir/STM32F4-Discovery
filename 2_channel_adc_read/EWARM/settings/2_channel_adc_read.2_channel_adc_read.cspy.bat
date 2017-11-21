@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.general.xcl" --backend -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.general.xcl" --backend -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\settings\2_channel_adc_read.2_channel_adc_read.driver.xcl" 
 
 @echo off 
 :end

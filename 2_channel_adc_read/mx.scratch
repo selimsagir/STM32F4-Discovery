@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-<ProjectName>C:\Users\PC-1\Desktop\stm32f4 discovery working\2_channel_adc_read\\2_channel_adc_read</ProjectName>
+<ProjectName>C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\\2_channel_adc_read</ProjectName>
 <CMSIS>..\Drivers\CMSIS</CMSIS>
-<HAL_Driver>C:\Users\PC-1\STM32Cube\Repository\STM32Cube_FW_F4_V1.17.0\Drivers\CMSIS</HAL_Driver>
+<HAL_Driver>C:\Users\Selim-Pc\STM32Cube\Repository\STM32Cube_FW_F4_V1.17.0\Drivers\CMSIS</HAL_Driver>
 
 <Toolchain>EWARM</Toolchain>
 	<Toolversion>0</Toolversion>

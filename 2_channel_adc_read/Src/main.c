@@ -135,12 +135,15 @@ int main(void)
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
-HAL_ADC_Start(&hadc1);
-HAL_ADC_PollForConversion(&hadc1,100);
-adcData1 = HAL_ADC_GetValue(&hadc1);
-
-printf("%d",adcData1);
-HAL_Delay(100);
+  HAL_ADC_Start(&hadc1); 
+  HAL_ADC_Start(&hadc2);
+  HAL_ADC_PollForConversion(&hadc1,100);  
+  adcData1 = HAL_ADC_GetValue(&hadc1); 
+  HAL_ADC_PollForConversion(&hadc2,100);
+  adcData2 = HAL_ADC_GetValue(&hadc2); 
+  
+  printf("%d",adcData1);
+  HAL_Delay(100);
   }
   /* USER CODE END 3 */
 

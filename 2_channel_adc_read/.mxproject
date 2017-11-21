@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/PC-1/Desktop/stm32f4 discovery working/2_channel_adc_read/Inc
+HeaderPath=C:/Users/Selim-Pc/Documents/STM32-WORKING/working/2_channel_adc_read/Inc
 HeaderFiles=stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;
-SourcePath=C:/Users/PC-1/Desktop/stm32f4 discovery working/2_channel_adc_read/Src
+SourcePath=C:/Users/Selim-Pc/Documents/STM32-WORKING/working/2_channel_adc_read/Src
 SourceFiles=stm32f4xx_it.c;stm32f4xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]

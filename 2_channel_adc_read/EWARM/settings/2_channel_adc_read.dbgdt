@@ -841,7 +841,7 @@
                 <expressions>
                     <item>adcData1</item>
                     <item>adcData2</item>
-                    <item></item>
+                    <item />
                 </expressions>
                 <col-names>
                     <item>Expression</item>
