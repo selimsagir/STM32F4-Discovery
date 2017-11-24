@@ -113,7 +113,6 @@ int main(void)
   adcData1[0] = HAL_ADC_GetValue(&hadc1);
   HAL_ADC_PollForConversion(&hadc2,100);
   adcData2[0] = HAL_ADC_GetValue(&hadc2);
-  HAL_GPIO_
   HAL_Delay(100);
   }
   /* USER CODE END 3 */
