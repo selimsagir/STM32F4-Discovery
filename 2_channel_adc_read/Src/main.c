@@ -63,6 +63,7 @@ static void MX_ADC2_Init(void);
 static void MX_USART1_UART_Init(void);
 
 /* USER CODE BEGIN PFP */
+
 /* Private function prototypes -----------------------------------------------*/
 #ifdef __GNUC__
   /* With GCC/RAISONANCE, small printf (option LD Linker->Libraries->Small printf
@@ -82,8 +83,6 @@ PUTCHAR_PROTOTYPE
     /* Place your implementation of fputc here */
     /* e.g. write a character to the USART */
     HAL_UART_Transmit(&huart1, (uint8_t *)&ch, 1, 100);
-
-
     return ch;
 }
 
@@ -91,7 +90,7 @@ PUTCHAR_PROTOTYPE
 
 /* USER CODE BEGIN 0 */
 
-uint16_t adcData1, adcData2;   /* datas reads from ADC  */
+  uint16_t adcData1, adcData2;   /* datas reads from ADC  */
 
 /* USER CODE END 0 */
 
@@ -138,11 +137,12 @@ int main(void)
   HAL_ADC_Start(&hadc1); 
   HAL_ADC_Start(&hadc2);
   HAL_ADC_PollForConversion(&hadc1,100);  
-  adcData1 = HAL_ADC_GetValue(&hadc1); 
   HAL_ADC_PollForConversion(&hadc2,100);
+  adcData1 = HAL_ADC_GetValue(&hadc1); 
   adcData2 = HAL_ADC_GetValue(&hadc2); 
-  
-  printf("%d",adcData1);
+  adcData1 = (adcData1*3.0/4096)/0.01;
+  printf("%d\r\n",adcData1);
+  printf("%d\r\n",adcData2);
   HAL_Delay(100);
   }
   /* USER CODE END 3 */

@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Users/PC-1/Desktop/stm32f4 discovery working/dma_read_adc_uart/dma_read_adc_uart/Inc
+HeaderPath=C:/Users/Selim-Pc/Documents/STM32-WORKING/working/dma_read_adc_uart/dma_read_adc_uart/Inc
 HeaderFiles=stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;
-SourcePath=C:/Users/PC-1/Desktop/stm32f4 discovery working/dma_read_adc_uart/dma_read_adc_uart/Src
+SourcePath=C:/Users/Selim-Pc/Documents/STM32-WORKING/working/dma_read_adc_uart/dma_read_adc_uart/Src
 SourceFiles=stm32f4xx_it.c;stm32f4xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]

@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.general.xcl" --backend -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.general.xcl" --backend -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\PC-1\Desktop\stm32f4 discovery working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\Selim-Pc\Documents\STM32-WORKING\working\dma_read_adc_uart\dma_read_adc_uart\EWARM\settings\dma_read_adc_uart.dma_read_adc_uart.driver.xcl" 
 
 @echo off 
 :end

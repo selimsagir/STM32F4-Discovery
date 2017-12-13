@@ -1,5 +1,8 @@
 ﻿C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\2_channel_adc_read.pbd
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\main.pbi
+C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_msp.pbi
+C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_it.pbi
+C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\system_stm32f4xx.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_adc.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_adc_ex.pbi
@@ -10,7 +13,6 @@ C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_cha
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_flash_ex.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_flash_ramfunc.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_gpio.pbi
-C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_msp.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_pwr.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_pwr_ex.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_rcc.pbi
@@ -18,5 +20,3 @@ C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_cha
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_tim.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_tim_ex.pbi
 C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_hal_uart.pbi
-C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\stm32f4xx_it.pbi
-C:\Users\Selim-Pc\Documents\STM32-WORKING\working\2_channel_adc_read\EWARM\2_channel_adc_read\Obj\system_stm32f4xx.pbi
